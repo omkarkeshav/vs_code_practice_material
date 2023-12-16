@@ -13,6 +13,7 @@ result = count_characters(input_string)
 for char, count in result.items():
     print(f"Character '{char} occurs {count} times")
 
+'''
 def count_characters(input_string):
     char_count = {}
     
@@ -27,3 +28,5 @@ result = count_characters(input_string)
 
 for char, count in result.items():
     print(f"Character '{char}' occurs {count} times.")
+
+'''
